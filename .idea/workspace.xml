@@ -14,8 +14,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="262b030a-e579-4a61-84ed-7c0f12638022" name="变更" comment="测试">
+    <list default="true" id="262b030a-e579-4a61-84ed-7c0f12638022" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +90,16 @@
       <workItem from="1691150801985" duration="35000" />
       <workItem from="1691150842000" duration="22000" />
       <workItem from="1691211326226" duration="3000" />
-      <workItem from="1691377951175" duration="2000" />
+      <workItem from="1691377951175" duration="1555000" />
     </task>
+    <task id="LOCAL-00001" summary="测试2">
+      <created>1691378229619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691378229619</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +133,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+    <MESSAGE value="测试2" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
