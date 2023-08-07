@@ -65,7 +65,7 @@ void SystemClock_Config(void);
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-
+    unsigned int a=0;
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
@@ -98,7 +98,8 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-      printf("okok\r\n");
+
+      printf("okok11=%d\r\n",a++);
       HAL_GPIO_TogglePin(LED0_GPIO_Port,LED0_Pin);
       HAL_Delay(500);
       HAL_GPIO_TogglePin(LED1_GPIO_Port,LED1_Pin);
